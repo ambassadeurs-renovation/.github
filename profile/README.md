@@ -1,3 +1,16 @@
+<div align="center">
+    <img width="auto" height="120" src="https://raw.githubusercontent.com/ambassadeurs-renovation/.github/refs/heads/main/assets/logo.svg" alt="RNT">
+</div>
+<p align="center">
+    <a href="https://github.com/ambassadeurs-renovation">
+        Le projet
+    </a>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/ambassadeurs-renovation/app">
+        L'application
+    </a>
+</p>
+<br/>
+
 # Les Ambassadeurs de la Rénovation
 
 Un programme d'acculturation des apprenants du BTP aux enjeux et principes de la rénovation énergétique.
