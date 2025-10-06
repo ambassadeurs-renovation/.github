@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="auto" height="120" src="https://raw.githubusercontent.com/ambassadeurs-renovation/.github/refs/heads/main/assets/logo.svg" alt="RNT">
+    <img width="auto" height="120" src="https://raw.githubusercontent.com/ambassadeurs-renovation/.github/refs/heads/main/assets/logo.svg" alt="Logo">
 </div>
 <p align="center">
     <a href="https://github.com/ambassadeurs-renovation">
